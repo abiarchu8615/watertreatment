@@ -4,7 +4,7 @@ scikit-learn
 joblib
 streamlit
 plotly
-tensorflow
+tensorflow==2.15.1
 keras
 matplotlib
 seaborn
